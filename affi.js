@@ -81,8 +81,8 @@ function create_pu()
 	}
 
     var origin = rChoice([
-	    "https://shope.ee/4fWPAgef45",
-        "https://shope.ee/3VKRlb2k4z",
+	    "https://www.toprevenuegate.com/q4ms9s6mt3?key=86fc2ec73225843192e6d91ebc298f82",
+        "https://www.toprevenuegate.com/q4ms9s6mt3?key=86fc2ec73225843192e6d91ebc298f82",
 	                          ]);
 
         if(window.pu.type === 'popup'){
